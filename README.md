@@ -354,15 +354,16 @@ Independently designed and deployed production-grade backend systems without ins
 
 ---
 
-## ◈ GitHub Trophies
-
+## ◈ GitHub Analytics
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Adarsh1s&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adarsh1s&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=7c3aed&icon_color=4f46e5&text_color=c4b5fd&include_all_commits=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh1s&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=7c3aed&text_color=c4b5fd" />
 
 </div>
----
+
 
 ## ◈ Contribution Activity
 
