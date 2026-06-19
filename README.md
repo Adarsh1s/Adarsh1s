@@ -368,7 +368,7 @@ Independently designed and deployed production-grade backend systems without ins
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&bg_color=0d0d1a&color=a78bfa&line=6d28d9&point=7c3aed&area=true&area_color=4f46e5&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adarsh1s&bg_color=0d0d1a&color=a78bfa&line=6d28d9&point=7c3aed&area=true&area_color=4f46e5&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
