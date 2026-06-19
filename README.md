@@ -35,9 +35,9 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=6d28d9&style=flat-square&label=PROFILE+VIEWS)
-![GitHub Followers](https://img.shields.io/github/followers/your-username?color=4f46e5&style=flat-square&label=FOLLOWERS&logo=github)
-![GitHub Stars](https://img.shields.io/github/stars/your-username?color=7c3aed&style=flat-square&label=TOTAL+STARS&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=Adarsh1s&color=6d28d9&style=flat-square&label=PROFILE+VIEWS)
+![GitHub Followers](https://img.shields.io/github/followers/Adarsh1s?color=4f46e5&style=flat-square&label=FOLLOWERS&logo=github)
+![GitHub Stars](https://img.shields.io/github/stars/Adarsh1s?color=7c3aed&style=flat-square&label=TOTAL+STARS&logo=github)
 
 </div>
 
