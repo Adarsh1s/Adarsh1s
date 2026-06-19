@@ -247,7 +247,7 @@ open_to:
 | **Query Language** | TQL — a custom DSL for time-ranged graph traversal and historical state queries |
 | **Scope** | Point-in-time queries · Temporal joins · Historical diff operations · Graph snapshot retrieval |
 | **Timeline** | Active multi-phase project spanning 2nd year through final year capstone |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repository-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/your-username/temporaldb) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repository-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/Adarsh1s/temporaldb) |
 
 **Engineering narrative:** Most databases treat time as metadata. TemporalDB treats it as a first-class dimension of every graph node and edge. The core insight is that many real-world graphs — social networks, financial relationships, knowledge graphs — are meaningless without temporal context. TQL lets you ask: "What did this graph look like at T-minus 90 days, and what changed since?"
 
@@ -356,12 +356,12 @@ Independently designed and deployed production-grade backend systems without ins
 
 ## ◈ GitHub Trophies
 
+
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Adarsh1s&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&title=Commit,Stars,Followers,Issues,PullRequest,Repositories,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Adarsh1s&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
-
 ---
 
 ## ◈ Contribution Activity
