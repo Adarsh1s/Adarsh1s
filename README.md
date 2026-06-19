@@ -1,254 +1,137 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20,24,30&text=Adarsh%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:4f46e5,100:7c3aed&height=220&section=header&text=Adarsh%20Singh&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineering%20•%20Cloud%20Infrastructure%20•%20Systems%20Design&descAlignY=58&descSize=18" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Computer+Science+Engineer;Cloud+%26+DevOps+Enthusiast;Backend+%26+Distributed+Systems+Developer;AI+%2F+ML+Explorer;Building+Scalable+Software+Solutions" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=850&lines=B.Tech+Computer+Science+Student;Backend+Engineering+%7C+Cloud+Computing;Node.js+%7C+Python+%7C+PostgreSQL+%7C+Docker;OCI+Certified+Developer;Building+Projects+and+Learning+in+Public)](https://git.io/typing-svg)
 
-<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
-![B.Tech](https://img.shields.io/badge/B.Tech-Computer%20Science-6A5ACD?style=for-the-badge)
-![Student](https://img.shields.io/badge/Status-Engineering%20Student-4B0082?style=for-the-badge)
-![Cloud](https://img.shields.io/badge/Cloud-Engineer-7B68EE?style=for-the-badge)
-![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-9370DB?style=for-the-badge)
-
-![Location](https://img.shields.io/badge/Location-India-blueviolet?style=for-the-badge)
-
-<a href="https://portfolio.example.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<a href="https://linkedin.com/in/your-linkedin">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-6A5ACD?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:your.email@example.com">
-<img src="https://img.shields.io/badge/Email-Contact-4B0082?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/Adarsh1s">
-<img src="https://img.shields.io/badge/GitHub-Follow-7B68EE?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br>
-
-![](https://komarev.com/ghpvc/?username=Adarsh1s&style=for-the-badge&color=blueviolet)
-![](https://img.shields.io/github/followers/Adarsh1s?style=for-the-badge&color=6A5ACD)
-![](https://img.shields.io/github/stars/Adarsh1s?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=8A2BE2)
+![](https://komarev.com/ghpvc/?username=Adarsh1s&style=for-the-badge&color=6d28d9)
 
 </div>
 
 ---
 
-# About Me
+# About
 
-I am a Computer Science Engineering student passionate about building scalable software systems, cloud-native applications, distributed architectures, and AI-powered products.
+```yaml
+name: Adarsh Singh
+education: B.Tech Computer Science
 
-My interests span across backend engineering, cloud computing, DevOps, system design, databases, machine learning, and modern web development. I enjoy designing solutions that combine performance, reliability, maintainability, and business impact.
+focus:
+  - Backend Engineering
+  - Cloud Computing
+  - Databases
+  - Distributed Systems
+  - System Design
 
-### What I Do
+currently_learning:
+  - Kubernetes
+  - Terraform
+  - System Design
+  - Data Engineering
 
-- Software Engineering
-- Backend Development
-- Full Stack Product Development
-- Cloud Architecture
-- DevOps & Automation
-- AI/ML Engineering
-- System Design
-- Database Engineering
-
-### Open To
-
-- Software Engineering Internships
-- Backend Engineering Roles
-- Cloud & DevOps Opportunities
-- AI/ML Projects
-- Open Source Collaborations
-- Research Opportunities
+open_to:
+  - Backend Internships
+  - Cloud Engineering Roles
+  - Open Source Collaboration
+```
 
 ---
 
 # Tech Stack
 
 ## Languages
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts,r,bash" />
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,bash" />
 </p>
 
 ## Frontend
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,flutter" />
 </p>
 
 ## Backend & Databases
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb,redis" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis,prisma" />
 </p>
 
-## Cloud, DevOps & Tooling
-
+## Cloud & DevOps
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,githubactions,azure,gcp,aws,git,linux,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,linux,git,azure,gcp,aws" />
 </p>
 
 ---
 
-# AI / ML Expertise
+# Engineering Interests
 
-| Domain | Proficiency | Details |
-|----------|----------|----------|
-| Machine Learning | Intermediate | Model Training, Evaluation, Feature Engineering |
-| Data Analytics | Intermediate | Data Cleaning, Visualization, Statistical Analysis |
-| Deep Learning | Beginner-Intermediate | Neural Networks, CNN Fundamentals |
-| MLOps | Beginner | Deployment & Monitoring Concepts |
-| Generative AI | Intermediate | LLM Applications & Prompt Engineering |
-| Data Engineering | Intermediate | ETL Pipelines, Data Processing |
-| AI Product Development | Intermediate | AI Integration into Production Systems |
+| Area | Topics |
+|------|--------|
+| Backend | APIs, Authentication, Architecture |
+| Cloud | OCI, Azure, GCP, AWS |
+| Databases | PostgreSQL, MongoDB, Redis |
+| DevOps | Docker, CI/CD, Infrastructure |
+| AI | LLM Applications, Analytics |
+| Finance | Markets, Quantitative Systems |
 
 ---
 
 # Featured Projects
 
 <details>
-<summary><b>Cloud Native Travel Intelligence Platform</b></summary>
+<summary><b>TemporalDB</b></summary>
 
-### Overview
+A long-term experimental database project focused on temporal graph storage and historical queries.
 
-Scalable travel analytics and recommendation platform built for smart transportation research.
-
-| Category | Details |
-|-----------|-----------|
-| Stack | Flutter, Firebase, Node.js |
-| Scale | Multi-user Architecture |
-| Performance | Optimized API Responses |
-| Security | Firebase Authentication |
-| Impact | Data Collection & Analytics |
-| Repository | Coming Soon |
-
-A modern transportation intelligence solution designed for collecting and analyzing travel behavior while delivering actionable insights.
+**Tech:** Java, Data Structures, Query Language Design
 
 </details>
 
 <details>
-<summary><b>Distributed Social Media Platform</b></summary>
+<summary><b>Campus Event Management System</b></summary>
 
-### Overview
+Role-based event management platform supporting approvals, notifications, and administration workflows.
 
-Microservices-based social networking platform inspired by large-scale production architectures.
-
-| Category | Details |
-|-----------|-----------|
-| Stack | Next.js, Node.js, PostgreSQL, MongoDB |
-| Scale | Distributed Services |
-| Performance | Redis Caching |
-| Security | JWT + RBAC |
-| Impact | Scalable Social Platform |
-| Repository | Coming Soon |
-
-Built using production-grade backend architecture patterns including service separation, caching, asynchronous processing, and fault tolerance.
+**Tech:** FastAPI, PostgreSQL, Redis, Docker
 
 </details>
 
 <details>
-<summary><b>Cloud Infrastructure Automation Suite</b></summary>
+<summary><b>Cloud Infrastructure Automation</b></summary>
 
-### Overview
+Experiments around Infrastructure as Code, deployment automation, and cloud resource management.
 
-Infrastructure automation toolkit for provisioning cloud resources.
-
-| Category | Details |
-|-----------|-----------|
-| Stack | Terraform, OCI, Azure |
-| Scale | Multi-Cloud |
-| Performance | Automated Provisioning |
-| Security | IAM Integration |
-| Impact | Faster Deployments |
-| Repository | Coming Soon |
-
-Designed to simplify infrastructure provisioning and deployment workflows through Infrastructure-as-Code practices.
+**Tech:** OCI, Docker, Terraform, GitHub Actions
 
 </details>
 
 <details>
-<summary><b>AI Powered Analytics Dashboard</b></summary>
+<summary><b>Travel Analytics Platform</b></summary>
 
-### Overview
+Data collection and analytics platform inspired by transportation research projects.
 
-Data analytics dashboard leveraging machine learning insights.
-
-| Category | Details |
-|-----------|-----------|
-| Stack | Python, React, PostgreSQL |
-| Scale | Enterprise Dashboard |
-| Performance | Optimized Queries |
-| Security | Role-Based Access |
-| Impact | Business Intelligence |
-| Repository | Coming Soon |
-
-Combines data engineering, analytics, and visualization techniques to support business decision making.
+**Tech:** Flutter, Firebase, Analytics
 
 </details>
-
----
-
-# Experience
-
-## Community Service Intern
-### Mind Plus Academy
-
-**June 2025 – July 2025**
-
-Contributed to educational initiatives focused on improving learning opportunities for students from rural and semi-urban communities.
-
-#### Scope of Work
-
-- Conducted science and mathematics learning sessions
-- Assisted in curriculum planning
-- Designed educational materials
-- Participated in book donation drives
-- Mentored school students
-
-**Skills:** Education • Leadership • Communication • Social Impact
-
----
-
-# Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|-------------|----------|
-| 🥈 Python Project Exhibition | Secured 2nd Prize |
-| Oracle Cloud Certification | OCI Foundations Certified |
-| Oracle Cloud Certification | OCI Developer Professional |
-| Bloomberg Certification | Finance Fundamentals |
-| Bloomberg Certification | Market Concepts |
-| Open Source Learning | Active Contributor & Learner |
-
-</div>
 
 ---
 
 # Certifications
 
-## Oracle
+<div align="center">
 
 ![OCI Foundations](https://img.shields.io/badge/OCI-Foundations%20Associate-F80000?style=for-the-badge&logo=oracle)
+
 ![OCI Developer](https://img.shields.io/badge/OCI-Developer%20Professional-F80000?style=for-the-badge&logo=oracle)
 
-## AWS
+![Bloomberg](https://img.shields.io/badge/Bloomberg-Finance%20Fundamentals-black?style=for-the-badge)
 
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-In%20Progress-FF9900?style=for-the-badge&logo=amazonaws)
+![Bloomberg](https://img.shields.io/badge/Bloomberg-Market%20Concepts-black?style=for-the-badge)
 
-## NPTEL
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Learning-blue?style=for-the-badge)
-
-## Cisco
-
-![Cisco Networking](https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge&logo=cisco)
+</div>
 
 ---
 
@@ -256,21 +139,11 @@ Contributed to educational initiatives focused on improving learning opportuniti
 
 <div align="center">
 
-<a href="https://leetcode.com/your-profile">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com)
 
-<a href="https://www.geeksforgeeks.org/user/your-profile">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef)](https://codechef.com)
 
-<a href="https://www.hackerrank.com/your-profile">
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/users/your-profile">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank)](https://hackerrank.com)
 
 </div>
 
@@ -280,11 +153,15 @@ Contributed to educational initiatives focused on improving learning opportuniti
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adarsh1s&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adarsh1s&show_icons=true&theme=midnight-purple&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh1s&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh1s&layout=compact&theme=midnight-purple&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh1s&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh1s&theme=midnight-purple&hide_border=true"/>
 
 </div>
 
@@ -294,7 +171,7 @@ Contributed to educational initiatives focused on improving learning opportuniti
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Adarsh1s&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=Adarsh1s&theme=tokyonight&no-frame=true"/>
 
 </div>
 
@@ -304,29 +181,7 @@ Contributed to educational initiatives focused on improving learning opportuniti
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adarsh1s&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-```
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adarsh1s&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -335,29 +190,20 @@ jobs:
 # Current Focus
 
 ```yaml
-Learning:
-  - Distributed Systems
+learning:
   - Kubernetes
   - Terraform
   - System Design
-  - Machine Learning
 
-Building:
-  - Cloud Native Applications
-  - Full Stack Products
-  - AI Powered Systems
+building:
+  - TemporalDB
+  - Backend APIs
+  - Cloud Projects
 
-Exploring:
+exploring:
   - MLOps
   - Data Engineering
-  - High Performance Systems
-  - Scalable Architectures
-
-Open_To:
-  - Software Engineering Internships
-  - Backend Engineering Roles
-  - Cloud Engineering Roles
-  - Open Source Collaboration
+  - Open Source
 ```
 
 ---
@@ -366,21 +212,9 @@ Open_To:
 
 <div align="center">
 
-<a href="mailto:your.email@example.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/your-linkedin">
-<img src="https://img.shields.io/badge/LinkedIn-Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Adarsh1s">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://portfolio.example.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+[GitHub](https://github.com/Adarsh1s) •
+[LinkedIn](https://linkedin.com/in/your-linkedin) •
+[Portfolio](https://your-portfolio.dev)
 
 </div>
 
@@ -388,8 +222,8 @@ Open_To:
 
 <div align="center">
 
-*"Engineering scalable systems today, building intelligent products for tomorrow."*
+"Build useful things. Learn deeply. Improve continuously."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20,24,30" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4f46e5,100:6d28d9&height=120&section=footer"/>
 
 </div>
