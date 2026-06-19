@@ -341,14 +341,14 @@ Independently designed and deployed production-grade backend systems without ins
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=7c3aed&icon_color=4f46e5&text_color=c4b5fd&ring_color=6d28d9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=7c3aed&text_color=c4b5fd" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adarsh1s&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=7c3aed&icon_color=4f46e5&text_color=c4b5fd&ring_color=6d28d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh1s&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=7c3aed&text_color=c4b5fd" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=7c3aed&fire=4f46e5&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=6d28d9&stroke=6d28d9&currStreakNum=a78bfa&sideNums=a78bfa" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh1s&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=7c3aed&fire=4f46e5&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=6d28d9&stroke=6d28d9&currStreakNum=a78bfa&sideNums=a78bfa" />
 
 </div>
 
@@ -358,7 +358,7 @@ Independently designed and deployed production-grade backend systems without ins
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&title=Commit,Stars,Followers,Issues,PullRequest,Repositories,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Adarsh1s&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&title=Commit,Stars,Followers,Issues,PullRequest,Repositories,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -379,9 +379,9 @@ Independently designed and deployed production-grade backend systems without ins
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/your-username/your-username/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adarsh1s/Adarsh1s/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adarsh1s/Adarsh1s/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Adarsh1s/Adarsh1s/output/github-snake-dark.svg" />
 </picture>
 
 </div>
