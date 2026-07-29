@@ -77,20 +77,6 @@ open_to:
 
 ---
 
-# Engineering Focus
-
-| Domain | Technologies |
-|----------|----------|
-| Backend Engineering | Node.js, Express, FastAPI |
-| Databases | PostgreSQL, MongoDB, Redis |
-| Infrastructure | Docker, Kubernetes, Terraform |
-| Cloud | OCI, Azure, AWS, GCP |
-| System Design | Scalability, Reliability, Caching |
-| Finance | Trading Systems, Market Data |
-| AI Applications | LLM Integrations, Analytics |
-
----
-
 # Featured Projects
 
 <details>
@@ -274,34 +260,6 @@ A college-focused event platform designed to streamline event creation, approval
 </div>
 
 ---
-
-# Current Focus
-
-```yaml
-learning:
-  - Kubernetes
-  - Terraform
-  - Distributed Systems
-  - System Design
-  - Financial Infrastructure
-
-building:
-  - MarketPulse
-  - AutoScaleOps
-  - Event Management System
-
-exploring:
-  - MLOps
-  - Data Engineering
-  - Open Source Contributions
-  - Platform Engineering
-
-goals_2026:
-  - Strong Backend Engineering Internship
-  - Advanced Cloud Skills
-  - Large Scale System Design
-  - Build Public Project Portfolio
-```
 
 ---
 
