@@ -193,18 +193,6 @@ A college-focused event platform designed to streamline event creation, approval
 
 ---
 
-# GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adarsh1s&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh1s&layout=compact&theme=midnight-purple&hide_border=true"/>
-
-</div>
-
----
-
 # GitHub Streak
 
 <div align="center">
@@ -258,8 +246,6 @@ A college-focused event platform designed to streamline event creation, approval
 </picture>
 
 </div>
-
----
 
 ---
 
