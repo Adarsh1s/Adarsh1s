@@ -271,8 +271,6 @@ A college-focused event platform designed to streamline event creation, approval
 
 </div>
 
----
-
 <div align="center">
 
 ### Build systems that scale. Learn relentlessly. Create lasting impact.
