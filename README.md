@@ -160,19 +160,6 @@ A college-focused event platform designed to streamline event creation, approval
 
 ---
 
-# Certifications
-
-<div align="center">
-
-![OCI Foundations](https://img.shields.io/badge/OCI-Foundations%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![OCI Developer](https://img.shields.io/badge/OCI-Developer%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Bloomberg Finance](https://img.shields.io/badge/Bloomberg-Finance%20Fundamentals-000000?style=for-the-badge)
-![Bloomberg Market Concepts](https://img.shields.io/badge/Bloomberg-Market%20Concepts-000000?style=for-the-badge)
-
-</div>
-
----
-
 # Coding Profiles
 
 <div align="center">
@@ -220,16 +207,6 @@ A college-focused event platform designed to streamline event creation, approval
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adarsh1s&theme=tokyonight"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Adarsh1s&theme=tokyonight&utcOffset=5.5"/>
-
-</div>
-
----
-
-# Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adarsh1s&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
